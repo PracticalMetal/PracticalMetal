@@ -28,6 +28,7 @@
 ### Languages and Tools:
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="25" height="25" />
+<img align="left" src="https://user-images.githubusercontent.com/73461832/124395200-69e15880-dd20-11eb-8639-b01742e4bc18.png" alt="C++" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" width="25" height="25"/>
 <img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -43,17 +44,12 @@
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
 
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="PracticalMetal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PracticalMetal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 </details>
 
