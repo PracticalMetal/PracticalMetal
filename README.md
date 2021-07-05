@@ -1,4 +1,4 @@
-### Hi there, I'm Pulkit - aka [PracticalMetal] 👋
+### Hi there, I'm Pulkit - aka PracticalMetal 👋
 
 ---
 
