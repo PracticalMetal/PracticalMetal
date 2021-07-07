@@ -61,11 +61,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+
+
 [linkedin]: www.linkedin.com/in/2pulkit2
 [email]: mailto:2pulkit2@gmail.com
 [codechef]:https://www.codechef.com/users/practicalmetal
