@@ -2,7 +2,7 @@
 
 ---
 
-##  I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics & Communication Engineering.
+##  I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information & Technology Engineering.
 
 - 🌱 I’m currently learning DSA and Python
 - 👯 I’m looking to collaborate and contribute
